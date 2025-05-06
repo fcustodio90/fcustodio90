@@ -26,15 +26,7 @@
 
 ## GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fcustodio90&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fcustodio90&theme=radical)
-
-![Snake Animation](https://github.com/fcustodio90/fcustodio90/blob/output/github-contribution-grid-snake-dark.svg)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=fcustodio90&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Top Languages
 
