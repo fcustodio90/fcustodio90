@@ -22,7 +22,6 @@
 ## Current Projects
 
 - Building pharmaceutical ecommerces
-- Developing loyalty and promotion systems
 
 ## Connect with Me
 
