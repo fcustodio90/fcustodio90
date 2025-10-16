@@ -3,7 +3,6 @@
 ## About Me
 
 - Software Developer && Chartered Accountant
-- Passionate about Ruby on Rails and building scalable applications
 
 ## Tech Stack
 
