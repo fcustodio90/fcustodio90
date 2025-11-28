@@ -17,11 +17,7 @@
   - Rails
   - React
   - Vue
-
-## Current Projects
-
-- Building pharmaceutical ecommerces
-
+  
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/filipe-custodio)
