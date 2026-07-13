@@ -3,21 +3,8 @@
 ## About Me
 
 - Software Developer
-- Based in Portugal 🇵🇹
-
-## Tech Stack
-
-- 💻 Languages: Ruby, JavaScript
-- 🛠️ Tools & Technologies:
-  - PostgreSQL
-  - Redis
-  - Docker
-  - Git
-- 🌐 Frameworks:
-  - Rails
-  - React
-  - Vue
-  - Stimulus
+- Chartered Accountant 
+- Remote, Portugal 🇵🇹
   
 ## Connect with Me
 
